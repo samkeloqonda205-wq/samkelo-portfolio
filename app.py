@@ -575,13 +575,7 @@ with col_about1:
         I am ambitious about transitioning into data-driven and technical roles where I can continuously learn, apply my operational experience, and contribute to improving business efficiency and performance.
     </p>
     
-    st.markdown("""
-    <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:20px;margin-bottom:8px;">
-        <span style="font-family:'JetBrains Mono',monospace;font-size:10px;padding:4px 12px;border-radius:5px;background:rgba(0,229,255,0.07);color:#00e5ff;border:1px solid rgba(0,229,255,0.2);">🇬🇧 English — Fluent</span>
-        <span style="font-family:'JetBrains Mono',monospace;font-size:10px;padding:4px 12px;border-radius:5px;background:rgba(123,97,255,0.07);color:#7b61ff;border:1px solid rgba(123,97,255,0.2);">🇿🇦 IsiXhosa — Native</span>
-        <span style="font-family:'JetBrains Mono',monospace;font-size:10px;padding:4px 12px;border-radius:5px;background:rgba(6,214,160,0.07);color:#06d6a0;border:1px solid rgba(6,214,160,0.2);">🇿🇦 Afrikaans — Basic</span>
-    </div>
-    """, unsafe_allow_html=True)
+  
     
     st.markdown("""
     <div class="contact-item">
