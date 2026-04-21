@@ -582,16 +582,16 @@ with col_about1:
          <a href="mailto:samkeloqonda@gmail.com">samkeloqonda@gmail.com</a>
     </div>
     <div class="contact-item">
-        📞 068 256 7468
+         068 256 7468
     </div>
     <div class="contact-item">
-        📍 Kempton Park, Gauteng, South Africa
+         Kempton Park, Gauteng, South Africa
     </div>
     <div class="contact-item">
-        💼 <a href="https://www.linkedin.com/in/samkelo-qonda-b14738270" target="_blank">linkedin.com/in/samkelo-qonda-b14738270</a>
+         <a href="https://www.linkedin.com/in/samkelo-qonda-b14738270" target="_blank">linkedin.com/in/samkelo-qonda-b14738270</a>
     </div>
     <div class="contact-item">
-        💻 <a href="https://github.com/samkeloqonda205-wq" target="_blank">github.com/samkeloqonda205-wq</a>
+         <a href="https://github.com/samkeloqonda205-wq" target="_blank">github.com/samkeloqonda205-wq</a>
     </div>
     """, unsafe_allow_html=True)
 
