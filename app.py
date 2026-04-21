@@ -579,7 +579,7 @@ with col_about1:
     
     st.markdown("""
     <div class="contact-item">
-        📧 <a href="mailto:samkeloqonda@gmail.com">samkeloqonda@gmail.com</a>
+         <a href="mailto:samkeloqonda@gmail.com">samkeloqonda@gmail.com</a>
     </div>
     <div class="contact-item">
         📞 068 256 7468
