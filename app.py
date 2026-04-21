@@ -1071,13 +1071,6 @@ OTHER CERTIFICATIONS
 
 ===============================================
 
-LANGUAGES
-
-• English — Fluent
-• IsiXhosa — Native
-• Afrikaans — Basic
-
-===============================================
 
 © 2026 Samkelo Qonda
     """
